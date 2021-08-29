@@ -1,5 +1,5 @@
 # Thymeleaf_Project
- Projeto simples de cadastro de eventos, para testar Thymeleaf com Spring Boot e banco de dados H2.
+ Projeto simples de cadastro de eventos, para testar Thymeleaf com Spring Boot e banco de dados de teste H2.
  
  # Home
  ![1](https://user-images.githubusercontent.com/71332818/131045024-2efd6657-2298-4dc3-bd44-bda907efe6cc.png)
